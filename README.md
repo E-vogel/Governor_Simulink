@@ -20,7 +20,7 @@ Execute the following command with `governor_simulink.slx` in the same directory
 
 ***Click the button below to open the m-file in MATLAB Online.***
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=E-vogel/Gorvernor_Simulink&file=gorvernor_sim.m)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=E-vogel/Governor_Simulink&file=governor_sim.m)
 
 ## Example of Execution
 
