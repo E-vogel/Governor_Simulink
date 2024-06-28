@@ -1,4 +1,4 @@
-# Gorvernor_Simulink
+# Governor_Simulink
 
 This repository contains a Simulink model and MATLAB script to simulate the dynamics of a governor. The governor is a device used to regulate the speed of a machine, such as an engine.
 
